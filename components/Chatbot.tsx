@@ -130,7 +130,7 @@ const Chatbot: React.FC = () => {
                             <polyline points="7 23 3 19 7 15"></polyline>
                             <path d="M21 13v2a4 4 0 0 1-4 4H3"></path>
                         </svg>
-                        <h3 className="font-bold">{t('ai_chatbot_title')}</h3>
+                        <h3 className="font-bold">{t('Reuseday')}</h3>
                     </div>
                     <button onClick={() => setIsOpen(false)} className="text-white hover:text-gray-200 text-2xl" aria-label={t('close')}>&times;</button>
                 </div>
